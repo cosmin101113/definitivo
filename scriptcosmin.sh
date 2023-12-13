@@ -13,3 +13,4 @@ while [ $vble2 -le $n2 ];do
 done
 
 echo "me llamo ana"
+echo "me llamo cosmin"
